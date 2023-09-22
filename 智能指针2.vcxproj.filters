@@ -15,31 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="智能指针5.30.cpp">
+    <ClCompile Include="SP_0530_SPOperators.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="智能指针5.29.cpp">
+    <ClCompile Include="SP_0529_cons_des.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="无注释.cpp">
+    <ClCompile Include="SP_0603_array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="智能指针6.3.cpp">
+    <ClCompile Include="SP_0605_multiThd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="智能指针6.5.cpp">
+    <ClCompile Include="SP_0611_deleter_WeakPtr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="智能指针6.9.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="智能指针6.11.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="智能指针6.12.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="智能指针6.12 新特性重构.cpp">
+    <ClCompile Include="SP_0612_C++17.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

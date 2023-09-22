@@ -24,6 +24,7 @@
     <ProjectGuid>{8a5616f5-5fdf-4aab-99c8-db722acda862}</ProjectGuid>
     <RootNamespace>智能指针2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SmartPtr_mySharedPtr</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,15 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="无注释.cpp" />
-    <ClCompile Include="智能指针5.29.cpp" />
-    <ClCompile Include="智能指针5.30.cpp" />
-    <ClCompile Include="智能指针6.11.cpp" />
-    <ClCompile Include="智能指针6.12 新特性重构.cpp" />
-    <ClCompile Include="智能指针6.12.cpp" />
-    <ClCompile Include="智能指针6.3.cpp" />
-    <ClCompile Include="智能指针6.5.cpp" />
-    <ClCompile Include="智能指针6.9.cpp" />
+    <ClCompile Include="SP_0529_cons_des.cpp" />
+    <ClCompile Include="SP_0530_SPOperators.cpp" />
+    <ClCompile Include="SP_0611_deleter_WeakPtr.cpp" />
+    <ClCompile Include="SP_0612_C++17.cpp" />
+    <ClCompile Include="SP_0603_array.cpp" />
+    <ClCompile Include="SP_0605_multiThd.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
